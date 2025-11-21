@@ -1,3 +1,4 @@
+This is an update made for the first merge task.
 # Simple Interest Calculator
 
 This repository contains a simple Bash script that calculates simple interest based on user input. 
